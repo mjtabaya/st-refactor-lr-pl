@@ -1,3 +1,6 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-# empty
+Bingo:
+  name: Migo Example
+  email: migo@example.com
+  password_digest: <%= User.digest('password') %>
