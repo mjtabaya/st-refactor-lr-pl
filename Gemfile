@@ -16,8 +16,10 @@ gem 'sass-rails', '~> 5.0'
 gem 'turbolinks', '~> 5'
 gem 'uglifier', '>= 1.3.0'
 # added gems
-gem 'jquery-rails'
+gem 'bootstrap-will_paginate'
 gem 'faker'
+gem 'jquery-rails'
+gem 'will_paginate'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
