@@ -1,0 +1,15 @@
+one:
+  follower: migo
+  followed: lana
+
+two:
+  follower: migo
+  followed: malory
+
+three:
+  follower: lana
+  followed: migo
+
+four:
+  follower: archer
+  followed: migo
